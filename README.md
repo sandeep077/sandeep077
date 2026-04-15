@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandeep077
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Big Data
+- 👀 I’m interested in Software Engineering and AI
+
 
 
 <!---
